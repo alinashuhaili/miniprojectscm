@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <style type="text/css">
 <!--
-.style5 {font-size: 85%; font-weight: bold; color: #003300; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.style5 {font-size: 86%; font-weight: bold; color: #003300; font-family: Verdana, Arial, Helvetica, sans-serif; }
 -->
 </style>
 <script src="SpryAssets/SpryValidationTextarea.js" type="text/javascript"></script>
